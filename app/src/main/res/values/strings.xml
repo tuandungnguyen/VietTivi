@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Việt Tivi</string>
+    <string name="all">TẤT CẢ</string>
+    <string name="film">PHIM</string>
+    <string name="football">BÓNG ĐÁ</string>
+    <string name="about">THÔNG TIN</string>
+
+
+    <string name="admob_banner">ca-app-pub-2498626873188323/9971744095</string>
+    <string name="admob_interstitial">ca-app-pub-2498626873188323/2448477299</string>
+    <string name="tracking_code">UA-52060119-20</string>
+
+    <string name="pleasewait">Vui lòng chờ..</string>
+</resources>
