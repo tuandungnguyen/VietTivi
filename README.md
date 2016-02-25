@@ -1,7 +1,11 @@
 # VietTivi
 Demo Tivi online application for Android devices.
+
 Author: Nguyen Tuan Dung.
+
 IDE: Android Studio.
+
+.
 
 Screenshoots:
 - Home & List channel:
